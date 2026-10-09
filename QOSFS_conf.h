@@ -1,0 +1,6 @@
+
+#define LBA64 0
+
+#define MAX_FOLDER_FILE_COUNT 256
+
+#define MAX_FOLDER_OPEN_COUNT 80
